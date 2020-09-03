@@ -1,3 +1,3 @@
 # aula-impacta
-Aula Devops <br>
+Aula DevOps <br>
 Euder Nogueira Arcanjo <br>
